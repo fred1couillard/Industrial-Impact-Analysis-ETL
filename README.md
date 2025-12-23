@@ -16,7 +16,7 @@ I worked with raw, unstructured logs containing simulated real-world errors:
 
 ## Key Finding
 The analysis revealed a **strong positive correlation (0.86)**, confirming that production surges in December are the direct driver of local air quality drops.
-
+![Graphique Production vs Pollution](graphique_production_vs_pollution.png)
 ## Tech Stack
 * Python, Pandas (Data Manipulation)
 * Matplotlib, Seaborn (Visualization & Trend Analysis)
