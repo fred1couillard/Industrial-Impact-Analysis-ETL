@@ -3,7 +3,7 @@
 ## Objective
 As part of a Data Analytics workflow simulation, the goal was to audit the correlation between production spikes (pre-holiday rush) and environmental degradation (PM2.5 levels).
 
-## The Challenge (Data Engineering)
+## The Challenge
 I worked with raw, unstructured logs containing simulated real-world errors:
 * **Inconsistent Naming Conventions:** (`Usine_A` vs `usine a`) requiring string normalization.
 * **Date Format Mismatch:** Merging disparate time-series formats (`DD-MM-YYYY` vs `YYYY/MM/DD`).
